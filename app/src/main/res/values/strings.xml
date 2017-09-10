@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Pune Tour Guide</string>
+
+    <string name="fragment_restaurants">Restaurants</string>
+    <string name="fragment_temples">Temples</string>
+    <string name="fragment_parks">Parks</string>
+    <string name="fragment_otherAttractions">Other Attractions</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="name_restaurant_1">Barbeque Nation</string>
+    <string name="name_restaurant_2">Blue Nile</string>
+    <string name="name_restaurant_3">Shreyas</string>
+    <string name="name_restaurant_4">Kolhapuri Katta</string>
+    <string name="name_restaurant_5">Durwankur Dining Hall</string>
+    <string name="name_restaurant_6">Abhishek</string>
+    <string name="name_restaurant_7">11 East Street Cafe</string>
+    <string name="name_restaurant_8">Cafe Goodluck</string>
+
+    <string name="area_restaurant_1">Deccan</string>
+    <string name="area_restaurant_2">Camp</string>
+    <string name="area_restaurant_3">Deccan</string>
+    <string name="area_restaurant_4">Bibwewadi</string>
+    <string name="area_restaurant_5">Tilak Road</string>
+    <string name="area_restaurant_6">Erandwane</string>
+    <string name="area_restaurant_7">Camp</string>
+    <string name="area_restaurant_8">Deccan</string>
+
+    <string name="name_temple_1">Dagdusheth Ganpati</string>
+    <string name="name_temple_2">Swaminarayan</string>
+    <string name="name_temple_3">Parvati Devi</string>
+    <string name="name_temple_4">Isckon</string>
+    <string name="name_temple_5">Balaji</string>
+    <string name="name_temple_6">Baneshwar</string>
+    <string name="name_temple_7">Mahalaxmi</string>
+
+    <string name="area_temple_1">Budhwar Peth</string>
+    <string name="area_temple_2">Narhe</string>
+    <string name="area_temple_3">Parvati Tekdi</string>
+    <string name="area_temple_4">Katraj</string>
+    <string name="area_temple_5">Narayanpur</string>
+    <string name="area_temple_6">Nasrapur</string>
+    <string name="area_temple_7">Sarasbaug</string>
+
+    <string name="name_park_1">Katraj Zoo</string>
+    <string name="name_park_2">Appu Ghar</string>
+    <string name="name_park_3">Sarasbaug Park</string>
+    <string name="name_park_4">Pu La Deshpande Park</string>
+    <string name="name_park_5">Peshwe Park</string>
+    <string name="name_park_6">Bagul Udyan</string>
+    <string name="name_park_7">Empress Garden</string>
+    <string name="name_park_8">Kamla Nehru Park</string>
+
+    <string name="area_park_1">Katraj</string>
+    <string name="area_park_2">Nigdi</string>
+    <string name="area_park_3">Sarasbaug</string>
+    <string name="area_park_4">Sinhgad Road</string>
+    <string name="area_park_5">Deccan</string>
+    <string name="area_park_6">Parvati</string>
+    <string name="area_park_7">Racecourse</string>
+    <string name="area_park_8">Deccan</string>
+
+    <string name="name_otherAttraction_1">Sinhgad Fort</string>
+    <string name="name_otherAttraction_2">Shaniwar Wada</string>
+    <string name="name_otherAttraction_3">Khadakwasla Dam</string>
+    <string name="name_otherAttraction_4">Lavasa</string>
+    <string name="name_otherAttraction_5">Malshej Ghat</string>
+    <string name="name_otherAttraction_6">Rajgad Fort</string>
+
+    <string name="area_otherAttraction_1">Sinhgad</string>
+    <string name="area_otherAttraction_2">Shaniwar Wada</string>
+    <string name="area_otherAttraction_3">Khadakwasla Dam</string>
+    <string name="area_otherAttraction_4">Lavasa</string>
+    <string name="area_otherAttraction_5">Malshej Ghat</string>
+    <string name="area_otherAttraction_6">Rajgad Fort</string>
+
+</resources>
